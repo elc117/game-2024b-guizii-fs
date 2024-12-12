@@ -2,7 +2,7 @@
 
 ## Autoria
 
-\*\*Nome:\*\* Guilherme Fereira da Silva\
+**Nome:** Guilherme Fereira da Silva\
 **Curso:** Ciencia da Computação\
 **Disciplina: Paradigmas de Programação**
 
@@ -39,7 +39,7 @@ No geral a parte mais custosa do desenvolvimento do jogo foi me ambientar com a 
 
 ## Diagrama de Classes
 
-
+![Diagrama de Classes](URL_da_Imagem)
 
 ## Como Jogar
 
@@ -53,6 +53,6 @@ No geral a parte mais custosa do desenvolvimento do jogo foi me ambientar com a 
 
 1. [Documentação Oficial do libGDX](https://libgdx.com/documentation/)
 2. [Exemplo de Jogos Simples com libGDX](https://github.com/libgdx/libgdx/wiki/Simple-game-structure)
-3. ChatGPT (utilizado para construir o diagrama de classes e a estruturar esse README)
-4. Aprenda Java Criando um Jogo 2D com LibGDX: [https://www.youtube.com/watch?v=2bmvlwvnirk](https://www.youtube.com/watch?v=2bmvlwvnirk)
+3. [Aprenda Java Criando um Jogo 2D com LibGDX:](https://www.youtube.com/watch?v=2bmvlwvnirk)
+4. ChatGPT (utilizado para construir o diagrama de classes e a estruturar esse README)
 
