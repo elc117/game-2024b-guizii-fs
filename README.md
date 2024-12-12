@@ -38,8 +38,9 @@ Sobreviver o maior tempo possível, acumulando pontos ao acertar os quizzes e ev
 No geral a parte mais custosa do desenvolvimento do jogo foi me ambientar com a libGDX e entender suas funcionalidades, como por exemplo: o ciclo de vida do jogo, como fazer o setup do projeto de acordo com o que eu queria, como rodar o jogo, etc. Essa etapa do desenvolvimento foi o que me impediu de poder avançar mais com o jogo, visto que fiquei quase duas semanas tentando entender como funciona, produzindo dois jogos anteriormente como forma de treino. O jogo foi feito em cima da base do "a simple game" fornecido pela propria libGDX, porém na implementação do quiz e, principalmente, das fontes, tive problemas que não consegui concluir a tempo da deadline. Infelizmente, o jogo não foi completamente concluido e nem todos os bugs foram removidos, porém fica como aprendizado esse trabalho e todo o conhecimento prático que tive.
 
 ## Diagrama de Classes
+O diagrama de classes UML foi feito a partir da ferramenta AstahUMl
 
-![Diagrama de Classes](URL_da_Imagem)
+![Diagrama de Classes](DinoDodgeClassDiagram.PNG)
 
 ## Como Jogar
 
